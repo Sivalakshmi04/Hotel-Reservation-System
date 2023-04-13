@@ -1,0 +1,110 @@
+h1{
+    background:rgb(72, 208, 226);
+    text-align: center;
+    color: white;
+}
+nav{
+    width:auto;
+    background: black;
+    overflow: auto;
+    font-size: large;
+    height: max-content;
+}
+
+
+
+.active{
+    background-color:rgb(221, 23, 155);
+    }
+    li:hover
+{
+transition: 0.5s;
+color:white;
+font-weight:bold;
+}
+#log{
+    float:right;
+    padding-right:10px;
+    padding-left:10px;
+    }
+    #au{
+        float:right;
+        padding-right:10px;
+        padding-left:10px;
+        }
+        #vr{
+            float:right;
+            padding-right:10px;
+    padding-left:10px;
+            }
+            #gal{
+                float:right;
+                padding-right:10px;
+                padding-left:10px;
+                }
+                #con{
+                    float:right;
+                    padding-right:10px;
+                    padding-left:10px;
+                    }
+    #admin{
+        float:right;
+        padding-right:10px;
+    padding-left:10px;
+        }
+        #reg{
+            float:right;
+            padding-right:10px;
+            padding-left:10px;
+            }
+
+            /* nav{
+                width:auto;
+                height: max-content;
+                background: black;
+                overflow: auto;
+                font-size: large; 
+              }*/
+              /* ul{
+                padding:0;
+                margin:0 0 0 200px;
+                list-style: none;
+              
+              }
+              li{
+                float:left;
+                justify-content: space-between;
+                
+              
+              }
+              /* .logo img{
+                position: fixed;
+                margin-top: 5px;
+                margin-left: 15px;
+              } */
+              /*nav a{
+                width:100px;
+                display:block;
+                padding: 25px 20px;
+                text-decoration: none;
+                font-family: Arial;
+                color:#fffefc;
+                text-align: center;
+              
+              }
+               */
+              /* nav a:hover{
+                background: purple;
+                transition: 0.5s;
+                text-transform: uppercase;
+              } */
+            /* #book{
+                float:right;
+                padding-right:10px;
+                padding-left:10px;
+                }
+                #pro{
+                    float:right;
+                    padding-right:10px;
+                    padding-left:10px;
+                    } */
